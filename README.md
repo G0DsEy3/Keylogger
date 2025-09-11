@@ -32,6 +32,7 @@ This project is for **ethical use only**. Do not use it on any device without th
 
 
 🛡️ Ethical Use Cases
+
 Cybersecurity research and study
 
 Demonstrating attack methods for awareness training
