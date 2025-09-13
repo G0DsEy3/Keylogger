@@ -1,11 +1,4 @@
 
-"""
-Safe example: Tkinter app that records keypresses only when the app is focused.
-Do NOT use this to capture keys from other apps or people without consent.
-
-Run: python3 tk_keylogger_safe.py
-"""
-
 import tkinter as tk
 from tkinter import messagebox, simpledialog
 from datetime import datetime
